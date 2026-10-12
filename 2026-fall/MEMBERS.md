@@ -73,6 +73,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 이동영 | [dylee27.github.io](https://dylee27.github.io) |
 
 ## Team 13
 
