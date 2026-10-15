@@ -10,35 +10,40 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 지익준 | [ikjun-chi.github.io](https://ikjun-chi.github.io) |
+| 이승재 | [brightexe-bot.github.io](https://brightexe-bot.github.io) |
 
 ## Team 2
 
 | Name | Personal page |
 |------|---------------|
 | 박혜민 | [lemonbuilder.github.io](https://lemonbuilder.github.io) |
+| 정직한 | [z-khan-jung.github.io](https://z-khan-jung.github.io) |
 
 ## Team 3
 
 | Name | Personal page |
 |------|---------------|
-| 신희진 | [zzangparty-blip.github.io](https://zzangparty-blip.github.io) |
+| 신희진 | [heejin-shin-2026.github.io](https://heejin-shin-2026.github.io) |
 
 ## Team 4
 
 | Name | Personal page |
 |------|---------------|
 | 김소라 | [https://shellkim.github.io/](https://shellkim.github.io/) |
+| 이다솜 | [https://somleeplus.github.io/](https://somleeplus.github.io/) |
 
 ## Team 5
 
 | Name | Personal page |
 |------|---------------|
+| 김지원 | [jiwonemilykim.github.io](https://jiwonemilykim.github.io) |
 
 ## Team 6
 
 | Name | Personal page |
 |------|---------------|
 | 강경구 | [kgg2512.github.io](https://kgg2512.github.io) |
+| 오명석 | [peter-oh-kr.github.io/peter-oh.github.io](https://peter-oh-kr.github.io/peter-oh.github.io/) |
 
 ## Team 7
 
@@ -52,6 +57,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 임동균 | [https://donggyunlim0525-netizen.github.io](https://donggyunlim0525-netizen.github.io) |
+| 장래희 | [fogcity13.github.io](https://fogcity13.github.io) |
 
 ## Team 9
 
@@ -65,24 +71,28 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | Name | Personal page |
 |------|---------------|
 | 김영균 | [yeongkyunkr-dot.github.io](https://yeongkyunkr-dot.github.io) |
+| 백민경 | [mk-baek.github.io](https://mk-baek.github.io) |
 
 ## Team 11
 
 | Name | Personal page |
 |------|---------------|
 | 박성규 | [https://mekhander.github.io/](https://mekhander.github.io/) |
+| 서은아 | [eunatheworld.github.io](https://eunatheworld.github.io) |
 
 ## Team 12
 
 | Name | Personal page |
 |------|---------------|
 | 이동영 | [dylee27.github.io](https://dylee27.github.io) |
+| 정상섭 | [seobprise.github.io](https://seobprise.github.io) |
 
 ## Team 13
 
 | Name | Personal page |
 |------|---------------|
 | 김이서 | [yiseo-kim.github.io](https://yiseo-kim.github.io) |
+| 홍하경 | [hakyung-hong.github.io](https://hakyung-hong.github.io) |
 
 ## Team 14
 
@@ -90,6 +100,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 장현아 | [cchang-01.github.io](https://cchang-01.github.io) |
 | 유중경 | [yougait.github.io](https://yougait.github.io) |
+| 이서윤 | [seo-yoonlee.github.io](https://seo-yoonlee.github.io) |
 | 백승윤 | [shaneknowsy.github.io](https://shaneknowsy.github.io) |
 
 ---
