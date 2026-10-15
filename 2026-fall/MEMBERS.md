@@ -36,6 +36,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+| 정민영 | [https://kie1057.github.io/](https://kie1057.github.io/) |
 | 김지원 | [jiwonemilykim.github.io](https://jiwonemilykim.github.io) |
 
 ## Team 6
